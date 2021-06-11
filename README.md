@@ -1,16 +1,8 @@
-# iot_device_tab
+# Part 2
 
-A new Flutter project.
+Flutter Layout Design (Tab)
 
-## Getting Started
+## Screenshot
 
-This project is a starting point for a Flutter application.
+![Screenshot_2021-06-12-00-28-15-702_com example iot_device_tab](https://user-images.githubusercontent.com/57230502/121731035-013cfc80-cb23-11eb-9ab2-363ce1fd40b8.jpg)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
